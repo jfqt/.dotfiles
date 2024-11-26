@@ -17,4 +17,7 @@ alias dev="cd ~/dev"
 alias obs="cd ~/obs:"
 alias ll="eza --color -l --git --icons=always --no-time --no-user --no-permissions -s type --all --group-directories-first -o" 
 alias l="eza --color -l --git --icons=always --no-time --no-user --no-permissions -s type --group-directories-first -o" 
+alias vim="nvim"
 
+# Created by `pipx` on 2024-11-09 20:01:44
+export PATH="$PATH:/Users/jacobfrancis/.local/bin"
